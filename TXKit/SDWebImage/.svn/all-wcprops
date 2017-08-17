@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageManager.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDownloaderOperation.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+WebP.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/NSData+ImageContentType.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIView+WebCacheOperation.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDownloader.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/glife/!svn/ver/1141/Glife_ios/branches/refactoring_v1.0/Glife_ios/PointsLife/SDK/SDWebImage/SDWebImageOperation.h
+END

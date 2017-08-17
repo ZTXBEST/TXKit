@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "TXCategory.h"
+
 @interface ViewController ()
 
 @end
@@ -17,11 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
-    NSNumber *number=@0.900412;
-    NSLog(@"%@",[number doRoundWithDigit:3]);
 }
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
